@@ -1,0 +1,24 @@
+**Week 1**  
+- The Bias-variance tradeoff is a way to see how optimal a model is  
+- RMarkdown notebooks are a useful tool for writing and presenting code  
+**Week 2**  
+- Using filter(!is.na(recent_move)) to filter N/A values  
+- Normalizing Data  
+**Week 3**  
+- Coding a linear regression model in R  
+- The assumptions a linear regression model makes  
+**Week 4**  
+- Coding logistic regression in R  
+- ROC curve in statistics  
+**Week 5**  
+- Poisson and Gamma regression as concepts  
+- The use cases for a GLM with advantages and disadvantages  
+**Week 6**  
+- Gradient Boosting machines  
+- Random Forests in R  
+**Week 7**  
+- K-Means Clusters in R  
+- Applications of unsupervised models  
+**Week 8**  
+- Making a GitHub account  
+- Making slides on RMarkdown
